@@ -23,7 +23,7 @@ var SantaGame = {
 		preload: function(){
 			this.game.load.audio('drivin-home', 'img/msc.mp3');
 			this.game.load.image('platform', 'img/1.png');
-			this.game.load.spritesheet('santa-running', 'https://piskel-imgstore-b.appspot.com/img/0e9311e6-c9e2-11ea-a951-55724ddb32ea.gif', 0, 0);
+			this.game.load.spritesheet('santa-running', 'https://piskel-imgstore-b.appspot.com/img/a9146e07-c9c5-11ea-8955-a5758beb84a3.gif', 0, 0);
 			this.game.load.image('snow-bg', 'https://cdn.pixabay.com/photo/2020/07/02/04/31/matrix-5361690_960_720.png');
 			this.game.load.image('snowflake', 'https://avatanplus.com/files/resources/original/5b41e8043e897164797250a0.png');
 			this.game.load.image("logo", "https://thumb.tildacdn.com/tild3964-3366-4831-b163-633164633465/-/resize/160x/-/format/webp/1.png");
